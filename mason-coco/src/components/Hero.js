@@ -1,10 +1,11 @@
 import React from 'react';
+import './Hero.css';
 
-const Hero = () => {
+function Hero() {
   return (
     <section className="hero" id="home">
       <video autoPlay muted loop id="heroVideo">
-        {/* <source src="Binary_Code.mp4" type="video/mp4" /> */}
+        <source src={`${process.env.PUBLIC_URL}/images/Binary_Code.mp4`} type="video/mp4" />
         Your browser does not support HTML5 video.
       </video>
       <div className="hero-content">
@@ -12,6 +13,6 @@ const Hero = () => {
       </div>
     </section>
   );
-};
+}
 
 export default Hero;

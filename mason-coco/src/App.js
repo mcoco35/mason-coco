@@ -2,8 +2,8 @@
 import React from 'react';
 import './App.css';
 import Navbar from './components/Navbar';
-// import Hero from './components/Hero';
-// import About from './components/About';
+import Hero from './components/Hero';
+import About from './components/About';
 import Education from './components/Education';
 // import Certifications from './components/Certifications';
 // import Projects from './components/Projects';
@@ -14,8 +14,8 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      {/* <Hero /> */}
-      {/* <About /> */}
+      <Hero />
+      <About />
       <Education />
       {/* <Certifications />
       <Projects /> */}

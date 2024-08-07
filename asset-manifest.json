@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mason-coco/static/css/main.ed8cdf42.css",
-    "main.js": "/mason-coco/static/js/main.c62b4a5f.js",
+    "main.css": "/mason-coco/static/css/main.bbcccd46.css",
+    "main.js": "/mason-coco/static/js/main.ca4e68b8.js",
     "static/js/453.de2e1385.chunk.js": "/mason-coco/static/js/453.de2e1385.chunk.js",
     "index.html": "/mason-coco/index.html",
-    "main.ed8cdf42.css.map": "/mason-coco/static/css/main.ed8cdf42.css.map",
-    "main.c62b4a5f.js.map": "/mason-coco/static/js/main.c62b4a5f.js.map",
+    "main.bbcccd46.css.map": "/mason-coco/static/css/main.bbcccd46.css.map",
+    "main.ca4e68b8.js.map": "/mason-coco/static/js/main.ca4e68b8.js.map",
     "453.de2e1385.chunk.js.map": "/mason-coco/static/js/453.de2e1385.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed8cdf42.css",
-    "static/js/main.c62b4a5f.js"
+    "static/css/main.bbcccd46.css",
+    "static/js/main.ca4e68b8.js"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mcoco35.github.io/mason-coco",
+  "homepage": "https://www.mason-coco.com",
   "name": "mason-coco",
   "version": "0.1.0",
   "private": true,
@@ -42,3 +42,4 @@
     "gh-pages": "^6.1.1"
   }
 }
+
